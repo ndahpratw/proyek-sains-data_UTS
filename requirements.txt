@@ -82,3 +82,4 @@ watchdog==3.0.0
 xgboost==2.0.2
 xyzservices==2023.10.1
 zipp==3.17.0
+librosa==0.10.1
